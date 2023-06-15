@@ -1,0 +1,3 @@
+[submodule "themes/ananke-hugo"]
+	path = themes/ananke-hugo
+	url = https://github.com/Nakaner/ananke-hugo.git
